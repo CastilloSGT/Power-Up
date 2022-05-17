@@ -5,7 +5,7 @@ O projeto só pôde ser realizado com a colaboração dos seguintes participante
 - Eduardo Guilherme de Medeiros (@eduGuilherme)
 - Fabio Nalini (@DarkseekerGael)
 - Ícaro Onofre (@fforellee)
-- Saul Gabriel Castillo Tercero (@UmPastelPraVC)
+- Saúl Gabriel Castillo Tercero (@CastilloSGT)
 
 Agradecimento especial à:
 
